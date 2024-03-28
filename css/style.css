@@ -66,16 +66,6 @@ nav a:hover {
     color: red;
 }
 
-.tela1 {
-    text-align: left;
-
-}
-
-.tela2 {
-    text-align: left;
-
-}
-
 section img {
     width: 500px;
     display: inline-block;
@@ -87,21 +77,19 @@ section1 img {
 }
 
 @media screen and (max-width: 600px) {
-    #cal {
-        width: 600px;
+    .tela2 img {
+        width: 70%; 
+        height: auto; 
     }
-    #gerador {
-        width: 600px;
+    footer {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    footer a {
+        margin: 10px; 
     }
 }
-
-#gerador {
-    width: 850px;
-}
-#cal {
-    width: 900px;
-}
-
 .certificado {
     height: 300px;
     width: 100%;
@@ -221,3 +209,4 @@ section1 img {
     margin-top: 2px;
     text-align: center;
 }
+
