@@ -209,4 +209,17 @@ section1 img {
     margin-top: 2px;
     text-align: center;
 }
+.dis{
+    font-size: 25px;
+    color: #fff;
+  }
+  
+  .copast{
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+  }
+  .copast:hover{
+    color: #4CAF50;
+  }
 
