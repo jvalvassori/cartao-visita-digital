@@ -222,4 +222,9 @@ section1 img {
   .copast:hover{
     color: #4CAF50;
   }
-
+  .titulo{
+    font-size: 30px;
+  }
+  .tecn{
+    font-size: 15px;
+  }
