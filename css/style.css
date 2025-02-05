@@ -58,7 +58,7 @@ footer p {
     padding: 0px 50px;
 }
 
-.container {
+.container52 {
     padding: 0px 50px;
 }
 
@@ -153,7 +153,7 @@ section1 img {
     margin-top: 1%;
 }
 
-@keyframes slide {
+/* @keyframes slide {
     from {
         transform: translateX(0);
     }
@@ -162,11 +162,11 @@ section1 img {
 
         transform: translateX(-100%);
     }
-}
+} */
 
 .logos {
     overflow: hidden;
-    padding: 40px 0;
+    padding: 20px 0;
     white-space: nowrap;
 }
 
@@ -176,7 +176,7 @@ section1 img {
 
 .logos-slide {
     display: inline-block;
-    animation: 15s slide infinite linear;
+    /* animation: 10s slide infinite linear; */
 }
 
 .logos-slide img {
@@ -228,3 +228,5 @@ section1 img {
   .tecn{
     font-size: 15px;
   }
+
+  
